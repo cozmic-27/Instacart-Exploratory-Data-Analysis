@@ -14,7 +14,11 @@
 #### 10. What are the differences in ordering habits of different customer profiles?
 
 # Folders
-
+#### 01 Project Management: Project brief
+#### 02 Data: Files to big to upload to GitHub
+#### 03 Scripts: Jupyter notebooks with code displayed.
+#### 04 Analysis/Visualizations: Visual data and analysis used to explain code in further detail.
+#### 05 Sent to Client: The final report presented in Excel.
 
 # Disclaimer 
 #### Data folder not included because dataset too large
